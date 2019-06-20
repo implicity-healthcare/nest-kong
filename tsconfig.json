@@ -16,7 +16,6 @@
     "baseUrl": "./",
     "outDir": "./lib",
     "lib": ["es2017"],
-    "composite": true,
     "declarationMap": true
   },
   "include": [
