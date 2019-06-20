@@ -17,6 +17,11 @@
     "build": "rm -rf ./lib && tsc",
     "prepublish": "npm run build"
   },
+  "files": [
+    "lib",
+    "node_modules"
+
+  ],
   "dependencies": {
     "@nestjs/common": "^6.3.1",
     "@nestjs/core": "^6.3.1",
