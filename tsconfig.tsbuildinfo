@@ -1169,7 +1169,7 @@
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
       "target": 2,
-      "sourceMap": false,
+      "sourceMap": true,
       "allowJs": false,
       "rootDir": "/Users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src",
       "baseUrl": "/Users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/",

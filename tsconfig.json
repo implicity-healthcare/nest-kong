@@ -10,11 +10,11 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "target": "es6",
-    "sourceMap": false,
+    "sourceMap": true,
     "allowJs": false,
     "rootDir": "./src",
     "baseUrl": "./",
-    "outDir": "./dist",
+    "outDir": "./lib",
     "lib": ["es2017"],
     "composite": true,
     "declarationMap": true
