@@ -4,6 +4,9 @@
   "description": "description",
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage",

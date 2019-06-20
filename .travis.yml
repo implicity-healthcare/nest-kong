@@ -1,7 +1,15 @@
-language : node_js
-node_js :
-  - stable
+language: node_js
+node_js:
+- stable
 install:
-  - npm install
+- npm install
 script:
-  - npm test
+- npm test
+deploy:
+  provider: npm
+  email: julien.sarazin@me.com
+  api_key:
+    secure: dyntshfKvw/2E/KyDCR2VApQ1RuLWOei6myxvsI28P6da8UMUaGsjhIhQDc/gFZO+LcVIgjV7/rUJVrtfnEdDKlyfBQmyjk1OnKcPLWHsOVyKzQLj7o0DOGvH5P40Ahwyc0V4hAQDOR1NZXrnMTEhkdE8PqVIN4T8LDhvgqmapb+HW606TbE0iwl7WOAgXwBlnQlA5QNfVcVqYmf+1Zsca3llPaS2CUBq59ZrVb9dCclzGHTaMOoCNBFuBAH25Qogm76RodPogAIue+HFDmfAXEp//7zBACPNndWtt73DinMqu59qtxzPDBAS9/lpBGuZ3s7zwuHocJRKvs7BgiSP43qZ3YDrXql4acupmuMhEC81KGhjLG2E3JJKqqmoHSGppGmxn1Sq7aSO5pfi53MIDtvGZ0bySUObKUzLSy+m3F+V3GSheZ6M2/kxTAQWC1YBeJm5A+RjgExbMBo1/GSng7/z83yGaCZnDfxvoibGN16E6yXAgVIcJA0oBUQ9DDbZMeEGryP23pjLd16yvNUMMGPirdkun+tKzYLAwdcXeS2d9I7zZJALi5DHSSp3xJktF35619UYT8Ph1pkcLRiQ4MORMMULkxFqtWXfxuXEqKHL5N9vH1/HyDws/arKfzW7qJ5ztTdr2XfQnuKlZLKQ5sScbHBowlgL90kIv9BTPo=
+  on:
+    tags: true
+    repo: implicity-healthcare/nest-kong
