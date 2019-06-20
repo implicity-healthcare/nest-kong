@@ -105,17 +105,17 @@
         "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/constants.d.ts": {
-        "version": "575f2e7570d501e683f419c7c8083665569ca17adb327cf0bbf8ace4d95a0d74",
-        "signature": "575f2e7570d501e683f419c7c8083665569ca17adb327cf0bbf8ace4d95a0d74"
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/constants.ts": {
+        "version": "abf2840df95b29eafc168327bc43d043622d1e2ca5be6c54c52592fd1d31e07c",
+        "signature": "e7ab175bf39b05129cab2a88095f47d40a41b7264ec03cf738896c5b9fd0afcb"
       },
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts": {
         "version": "9b3812f5ae5c9c8c9daf7107e1041f4ad9d19aebd12b738a81f22a1ac1f5e371",
         "signature": "9b3812f5ae5c9c8c9daf7107e1041f4ad9d19aebd12b738a81f22a1ac1f5e371"
       },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts": {
-        "version": "913d4a742df6243d480327c43cabc80f83f8a82dfc5977ffaf7a7757daf1aba3",
-        "signature": "913d4a742df6243d480327c43cabc80f83f8a82dfc5977ffaf7a7757daf1aba3"
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts": {
+        "version": "ea8678e6cfa7f29bef88e9230203a2ce6f1f09f4e93deffc89b1669ff798b142",
+        "signature": "d9bef62908526b74842e282c4ce0a74cf23c7a2073941013bc91dea8340e0e1e"
       },
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/reflect-metadata/index.d.ts": {
         "version": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
@@ -1057,34 +1057,6 @@
         "version": "4b7eaf807d1e25d7488cd6b524e192284cfa7e70e759e09cdc00eaed2e4475dc",
         "signature": "4b7eaf807d1e25d7488cd6b524e192284cfa7e70e759e09cdc00eaed2e4475dc"
       },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.module.d.ts": {
-        "version": "8dc3b764cbe35de456289c9704bd6a554537ae94584726a32d2f7b2a9abb5c00",
-        "signature": "8dc3b764cbe35de456289c9704bd6a554537ae94584726a32d2f7b2a9abb5c00"
-      },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts": {
-        "version": "90b82c7cd438b763d22dc3efabad8ac41ad29d3f033bde71cdd760dc7a1132e8",
-        "signature": "90b82c7cd438b763d22dc3efabad8ac41ad29d3f033bde71cdd760dc7a1132e8"
-      },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/consumers.resource.d.ts": {
-        "version": "b22c93367fa67f71c38815fc142911e88c8d2cb0ba6ea52d0c0158a76b9e7418",
-        "signature": "b22c93367fa67f71c38815fc142911e88c8d2cb0ba6ea52d0c0158a76b9e7418"
-      },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.service.d.ts": {
-        "version": "3916aa11db1c302afd2ce632435fb8b985148f8644406bfcd86f752cdb16e4d6",
-        "signature": "3916aa11db1c302afd2ce632435fb8b985148f8644406bfcd86f752cdb16e4d6"
-      },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/index.d.ts": {
-        "version": "c95a39d7858eb91243d18a0beaef0ec2cf08aad2b15f36b0580d9024b570404e",
-        "signature": "c95a39d7858eb91243d18a0beaef0ec2cf08aad2b15f36b0580d9024b570404e"
-      },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/constants.ts": {
-        "version": "abf2840df95b29eafc168327bc43d043622d1e2ca5be6c54c52592fd1d31e07c",
-        "signature": "e7ab175bf39b05129cab2a88095f47d40a41b7264ec03cf738896c5b9fd0afcb"
-      },
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts": {
-        "version": "ea8678e6cfa7f29bef88e9230203a2ce6f1f09f4e93deffc89b1669ff798b142",
-        "signature": "d9bef62908526b74842e282c4ce0a74cf23c7a2073941013bc91dea8340e0e1e"
-      },
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/classes/kongclient.ts": {
         "version": "437dda7ca44a8e8a06bf7cb62886c2d0acc6ece6d12922e210fc7b0593b821d8",
         "signature": "dd85da785b7893be764cc346a489ecb8b1424cfe1d5fc35d54eabdc486999504"
@@ -1314,7 +1286,7 @@
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/constants.d.ts": [
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/constants.ts": [
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1322,7 +1294,7 @@
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts": [
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts": [
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
@@ -2777,48 +2749,6 @@
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/serializer/index.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/services/index.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/utils/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.module.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/consumers.resource.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.service.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/consumers.resource.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/index.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/constants.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.module.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.service.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/constants.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3215,6 +3145,9 @@
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts": [
+        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts"
+      ],
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/reflect-metadata/index.d.ts": [
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
@@ -4668,9 +4601,6 @@
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts"
-      ],
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/classes/kongclient.ts": [
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts"
@@ -4938,48 +4868,6 @@
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/uuid/interfaces.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
         "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/constants.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/index.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/constants.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.module.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.service.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.service.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/consumers.resource.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/consumers.resource.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.module.d.ts": [
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/index.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/util.d.ts",
-        "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -5009,7 +4897,9 @@
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/constants.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/axios/index.d.ts",
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/reflect-metadata/index.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/cache/cache.constants.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/interfaces/abstract.interface.d.ts",
@@ -5245,8 +5135,6 @@
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/utils/index.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@nestjs/common/index.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/constants.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/interfaces.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/src/classes/kongclient.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/lodash/ts3.1/common/common.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/lodash/ts3.1/common/array.d.ts",
@@ -5271,14 +5159,7 @@
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/glob/index.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/jest/index.d.ts",
       "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/uuid/interfaces.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/uuid/index.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/constants.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/interfaces.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.module.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/kongclient.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/classes/consumers.resource.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/nest-kong.service.d.ts",
-      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/dist/index.d.ts"
+      "/users/juliensarazin/workspace/projects/microservices/nest-modules/nest-kong/node_modules/@types/uuid/index.d.ts"
     ]
   },
   "version": "3.5.2"
