@@ -14,7 +14,7 @@
     "coverage": "jest --coverage",
     "coveralls": "yarn run coverage --coverageReporters=text-lcov | coveralls",
     "test:watch": "jest --watch",
-    "build": "rm -rf ./dist && tsc",
+    "build": "rm -rf ./lib && tsc",
     "prepublish": "npm run build"
   },
   "dependencies": {
