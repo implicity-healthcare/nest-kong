@@ -1,6 +1,6 @@
 {
-  "name": "nconsul",
-  "version": "0.0.0",
+  "name": "@implicity/nest-kong",
+  "version": "0.0.1",
   "description": "description",
   "author": "",
   "license": "MIT",
@@ -13,12 +13,12 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "@nestjs/common": "^6.0.4",
-    "@nestjs/core": "^6.0.4",
-    "@nestjs/testing": "^5.4.0",
+    "@nestjs/common": "^6.3.1",
+    "@nestjs/core": "^6.3.1",
+    "@nestjs/testing": "^5.7.4",
     "consul": "latest",
-    "dotenv": "^6.1.0",
-    "glob": "^7.1.2",
+    "dotenv": "^6.2.0",
+    "glob": "^7.1.4",
     "lodash": "^4.17.11",
     "node-random-name": "^1.0.1",
     "reflect-metadata": "^0.1.12",
