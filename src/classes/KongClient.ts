@@ -1,7 +1,7 @@
 import { KongClientOptions, KongTarget } from '../interfaces';
 import Axios, { AxiosInstance, AxiosRequestConfig } from 'axios';
 
-export class Kong {
+export class KongClient {
     private options: KongClientOptions;
     private baseUrl: string;
 
