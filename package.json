@@ -1,6 +1,6 @@
 {
   "name": "@implicity/nest-kong",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "description",
   "author": "",
   "license": "MIT",
@@ -20,25 +20,21 @@
   "files": [
     "lib",
     "node_modules"
-
   ],
   "dependencies": {
-    "@nestjs/common": "^6.3.1",
-    "@nestjs/core": "^6.3.1",
-    "@nestjs/testing": "^5.7.4",
+    "@nestjs/common": "^6.10.12",
+    "@nestjs/config": "0.0.7",
+    "@nestjs/core": "^6.10.12",
+    "@nestjs/testing": "^6.10.12",
     "consul": "latest",
-    "dotenv": "^6.2.0",
     "glob": "^7.1.4",
     "lodash": "^4.17.11",
-    "node-random-name": "^1.0.1",
-    "reflect-metadata": "^0.1.12",
+    "reflect-metadata": "^0.1.13",
     "rxjs": "^6.0.0",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
-    "@types/consul": "^0.23.33",
-    "@types/dotenv": "^6.1.0",
     "@types/glob": "^5.0.35",
     "@types/jest": "^23.3.0",
     "@types/lodash": "^4.14.123",
@@ -47,7 +43,7 @@
     "jest": "^23.3.0",
     "prettier": "^1.13.7",
     "ts-jest": "^23.0.0",
-    "typescript": "^3.3.3"
+    "typescript": "^3.7.3"
   },
   "jest": {
     "moduleFileExtensions": [

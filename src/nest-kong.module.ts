@@ -3,21 +3,18 @@ import { KongModuleConfiguration } from './interfaces';
 import { KONG_CLIENT_PROVIDER, KONG_CONFIGURATION_PROVIDER, KONG_SERVICE_PROVIDER } from './constants';
 import { Kong } from './classes/KongClient';
 import { NestKongService } from './nest-kong.service';
+import { ConfigService } from '@nestjs/config';
 
 @Global()
 @Module({})
 export class NestKongModule {
 
-    static init(options: KongModuleConfiguration): DynamicModule {
+    static init(options?: KongModuleConfiguration): DynamicModule {
 
         const kongConfigurationProvider = {
             provide: KONG_CONFIGURATION_PROVIDER,
-            useFactory: (): KongModuleConfiguration => {
-                /**
-                 * TODO: lean the configuration with default properties.
-                 */
-                return options;
-            },
+            useFactory: (configService: ConfigService): KongModuleConfiguration => configService.get<KongModuleConfiguration>('NKong', options),
+            inject: [ConfigService]
         };
 
         /**
@@ -26,9 +23,10 @@ export class NestKongModule {
          */
         const kongClientProvider = {
             provide: KONG_CLIENT_PROVIDER,
-            useFactory: async (): Promise<any> => {
-                return await new Kong(options.kong);
+            useFactory: async (configuration: KongModuleConfiguration): Promise<any> => {
+                new Kong(options.kong)
             },
+            inject: [KONG_CONFIGURATION_PROVIDER]
         };
 
         const kongServiceProvider = {
