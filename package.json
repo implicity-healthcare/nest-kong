@@ -10,9 +10,9 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "test": "jest",
-    "coverage": "jest --coverage",
-    "coveralls": "yarn run coverage --coverageReporters=text-lcov | coveralls",
+    "test": "jest --passWithNoTests",
+    "coverage": "jest --coverage --passWithNoTests",
+    "coveralls": "npm run coverage --coverageReporters=text-lcov | coveralls",
     "test:watch": "jest --watch",
     "build": "rm -rf ./lib && tsc",
     "prepublish": "npm run build"
