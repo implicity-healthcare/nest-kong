@@ -1,4 +1,4 @@
-import { Kong } from './KongClient';
+import { KongClient } from './KongClient';
 
 export interface KongConsumer {
     id: string;
@@ -14,7 +14,7 @@ export interface KongConsumerCredentials {
 
 export class KongConsumersResource {
 
-    constructor(private readonly kongClient: Kong) {
+    constructor(private readonly kongClient: KongClient) {
 
     }
 
